@@ -1,7 +1,10 @@
 .header{
-    height: 100px;
-    background-image: url(blue gaming.png);
-}
+    font-size: 400%;
+    text-align: center;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 800px;
+    background-image: url(style/blue\ gaming.png);
 h1{
     color: blue;
 
